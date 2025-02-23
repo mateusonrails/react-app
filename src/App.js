@@ -1,9 +1,14 @@
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+
 function App() {
   return (
-    <div>
+    <>
+      <Header/>
       <h1>HELLO WORLD!</h1>
       <p>Paragrafo do texto</p>
-    </div>
+      <Footer/>
+    </>
   );
 }
 
