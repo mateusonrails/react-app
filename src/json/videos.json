@@ -1,0 +1,74 @@
+[
+    {
+        "id": "dbz",
+        "category": "Anime"
+    },
+    {
+        "id": "naruto",
+        "category": "Anime"
+    },
+    {
+        "id": "one-piece",
+        "category": "Anime"
+    },
+    {
+        "id": "jujutsu",
+        "category": "Anime"
+    },
+    {
+        "id": "demon-slayer",
+        "category": "Anime"
+    },
+    {
+        "id": "star-wars",
+        "category": "Filme"
+    },
+    {
+        "id": "avengers",
+        "category": "Filme"
+    },
+    {
+        "id": "fast-furious",
+        "category": "Filme"
+    },
+    {
+        "id": "john-wick",
+        "category": "Filme"
+    },
+    {
+        "id": "dark",
+        "category": "Série"
+    },
+    {
+        "id": "blindspot",
+        "category": "Série"
+    },
+    {
+        "id": "breaking-bad",
+        "category": "Série"
+    },
+    {
+        "id": "vikings",
+        "category": "Série"
+    },
+    {
+        "id": "peaky-blinders",
+        "category": "Série"
+    },
+    {
+        "id": "renato-russo",
+        "category": "Documentário"
+    },
+    {
+        "id": "kurt-cobain",
+        "category": "Documentário"
+    },
+    {
+        "id": "belchior",
+        "category": "Documentário"
+    },
+    {
+        "id": "michael-jackson",
+        "category": "Documentário"
+    }
+]
