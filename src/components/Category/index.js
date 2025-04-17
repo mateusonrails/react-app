@@ -1,4 +1,16 @@
+import videos from "../../json/videos.json"
 import styles from "./Category.module.css";
+
+export const categories = [
+  "Anime",
+  "Filme",
+  "Série",
+  "Documentário"
+]
+
+export function filterCategory(id) {
+  return videos.filter( video => video.category === categories[id] )
+}
 
 function Category({ category, children}) {
   return (
