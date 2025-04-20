@@ -1,74 +1,92 @@
 [
     {
         "id": "dbz",
+        "key": "",
         "category": "Anime"
     },
     {
         "id": "naruto",
+        "key": "",
         "category": "Anime"
     },
     {
         "id": "one-piece",
+        "key": "",
         "category": "Anime"
     },
     {
         "id": "jujutsu",
+        "key": "",
         "category": "Anime"
     },
     {
         "id": "demon-slayer",
+        "key": "",
         "category": "Anime"
     },
     {
         "id": "star-wars",
+        "key": "",
         "category": "Filme"
     },
     {
         "id": "avengers",
+        "key": "",
         "category": "Filme"
     },
     {
         "id": "fast-furious",
+        "key": "",
         "category": "Filme"
     },
     {
         "id": "john-wick",
+        "key": "",
         "category": "Filme"
     },
     {
         "id": "dark",
+        "key": "",
         "category": "Série"
     },
     {
         "id": "blindspot",
+        "key": "",
         "category": "Série"
     },
     {
         "id": "breaking-bad",
+        "key": "",
         "category": "Série"
     },
     {
         "id": "vikings",
+        "key": "",
         "category": "Série"
     },
     {
         "id": "peaky-blinders",
+        "key": "",
         "category": "Série"
     },
     {
         "id": "renato-russo",
+        "key": "",
         "category": "Documentário"
     },
     {
         "id": "kurt-cobain",
+        "key": "",
         "category": "Documentário"
     },
     {
         "id": "belchior",
+        "key": "",
         "category": "Documentário"
     },
     {
         "id": "michael-jackson",
+        "key": "",
         "category": "Documentário"
     }
 ]

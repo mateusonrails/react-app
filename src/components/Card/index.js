@@ -1,14 +1,12 @@
+import { Link } from "react-router-dom";
 import styles from "./Card.module.css"
 
-function Card({ id }) {
+function Card({ video }) {
   return (
     <section className={styles.card}>
-        <a 
-          href={``}
-          rel="renoferrer noopener"
-          target="_blank">
-          <img src={`./images/${id}.jpeg`} alt={`${id}`}/>
-        </a>
+        <Link to={`/watch/${video.key}`} >
+          <img src={`./images/${video.id}.jpeg`} alt={`${video.id}`}/>
+        </Link>
     </section>
   );
 }

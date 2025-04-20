@@ -13,7 +13,7 @@ function Home() {
       <Container>
         { categories.map((category, index) =>
           <Category category={category}>
-            { filterCategory(index).map((video) => <Card id={video.id} key={video.id}/> ) }
+            { filterCategory(index).map((video) => <Card video={video} key={video.key}/> ) }
           </Category>
         )}
       </Container>
